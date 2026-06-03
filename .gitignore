@@ -1,0 +1,26 @@
+# Arquivos de modelos treinados 
+*.pth
+*.pt
+
+# Arquivos temporários e de cache do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos gerais
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.mp4
+*.zip
+
+# Arquivos de sistema operacional (gerados por Windows/Mac)
+Thumbs.db
+.DS_Store
+
+# Cache do Python e configurações de ambiente
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+.conda/
